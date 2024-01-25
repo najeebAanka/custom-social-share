@@ -1,0 +1,45 @@
+# Custom Social Share WordPress Plugin
+
+## Description
+
+The Custom Social Share plugin adds floating share icons for Facebook and LinkedIn to all pages of your WordPress website.
+
+## Installation
+
+   - Log in to your WordPress admin dashboard.
+   - Navigate to **Plugins > Add New**.
+   - Click on **Upload Plugin**.
+   - Choose the downloaded ZIP file and click **Install Now**.
+   - Activate the plugin after installation.
+
+## Configuration
+
+- No additional configuration is required. The plugin will automatically display Facebook and LinkedIn share icons on all pages.
+
+## Customization
+
+If you want to customize the plugin, you can modify the CSS file (`custom-social-share.css`) included in the plugin directory.
+
+## Compatibility
+
+This plugin is designed to be compatible with all WordPress themes. However, it's recommended to test the plugin on a staging environment before deploying it to a live website.
+
+## Support
+
+If you encounter any issues or have questions, feel free to contact me on the provided contact details.
+
+## Changelog
+
+- **Version 1.0:**
+  - Initial release.
+
+## License
+
+This plugin is developed by
+ -- Najeeb Anka
+ -- najeeb_anka@hotmail.com
+
+---
+
+Thank you for using the Custom Social Share WordPress Plugin!
+
